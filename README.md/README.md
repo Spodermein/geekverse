@@ -2,6 +2,7 @@ GeekVerse
 
 GeekVerse is a full-stack blogging platform built with React, FastAPI, and MySQL, fully containerized using Docker Compose.
 It supports role-based access (Admin/User), rich post creation, comments, bookmarks, and category management.
+![Uploading image.png…]()
 
 
 Tech Stack
